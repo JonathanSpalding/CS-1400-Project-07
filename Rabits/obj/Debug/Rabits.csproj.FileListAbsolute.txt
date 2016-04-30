@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\bin\Debug\Rabits.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\obj\Debug\Rabits.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\bin\Debug\Rabits.exe
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\bin\Debug\Rabits.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\obj\Debug\Rabits.exe
+c:\users\jon\documents\visual studio 2015\Projects\Rabits\Rabits\obj\Debug\Rabits.pdb
